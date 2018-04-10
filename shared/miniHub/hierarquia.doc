@@ -1,0 +1,73 @@
+
+\miniHub
+   \--hierarquia.doc 
+   \--launchpage.html pagina principal
+   \--conferencia.html
+   \--embalagem.html  
+   \--entrega.html    
+   \--expedicao.html
+   \--preparacao.html
+   \--retorno.html
+   \--css
+        \--conteudo.css
+        \--questoes.css
+        \--video1.css
+   \--video
+        \--conferencia
+              \--conteudo.mp4
+        \--embalagem
+              \--conteudo.mp4
+        \--entrega
+              \--conteudo.mp4
+              \--conteudo1.mp4
+        \--expedicao
+              \--conteudo.mp4
+        \--preparacao
+              \--conteudo.mp4
+              \--conteudo1.mp4
+              \--prefacio.mp4
+        \--retorno
+              \--conteudo.mp4
+   \--image
+        \--setaDireita.png
+        \--setaEsquerda.png
+        \--conferencia
+              \--conteudo.png
+              \--pergunta.png
+              \--titulo.png
+        \--embalagem
+              \--conteudo.png
+        \--entrega
+              \--conteudo.png
+              \--conteudo1.png
+              \--pergunta.png
+              \--titulo.png
+        \--expedicao
+              \--conteudo.png
+        \--preparacao
+              \--conteudo.png
+              \--conteudo1.png
+              \--inicio.png
+              \--pergunta.png
+              \--pergunta1.png
+              \--prefacio.png
+              \--titulo.png
+
+        \--retorno
+              \--conteudo.png
+              \--fim.png
+              \--pergunta.png
+              \--titulo.png
+
+   \--js
+        \--conferencia.js
+        \--embalagem.js
+        \--entrega.js
+        \--expedicao.js
+        \--launchpage.js
+        \--preparacao.js
+        \--retorno.js
+ 
+
+
+
